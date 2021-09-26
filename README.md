@@ -7,3 +7,10 @@ Phoenix(9.3.5-9.3.6)
 
 ## Console jailbreaks included
 PS3(CFW+HEN instructions)
+
+## Software needed
+VMware Workstation Pro(Ask kindly at my e-mail for a key)
+The .ova file to import to VMware
+
+## How to run the Preinstalled Minzala™ Environment(Actually Windows 8.1 with a different wallpaper and all jailbreak tools)
+When you booted the VM, you will be welcomed with a lockscreen, click and then you must input a password, the password is "jailbroken"
