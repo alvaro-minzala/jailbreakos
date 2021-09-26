@@ -14,3 +14,8 @@ The .ova file to import to VMware
 
 ## How to run the Preinstalled Minzala™ Environment(Actually Windows 8.1 with a different wallpaper and all jailbreak tools)
 When you booted the VM, you will be welcomed with a lockscreen, click and then you must input a password, the password is "jailbroken"
+
+## Software included apart from iOS and console jailbreaks
+-A web browser(Google Chrome)
+-iTunes 11(needed for many iOS jailbreaks and tools)
+-PS3 EasyHax(Easy exploit copy, with some homebrew)
